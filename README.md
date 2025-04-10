@@ -1,0 +1,1 @@
+Design and implement a quantum neural network (QNN) for binary classification of network traffic (malicious vs. benign). Combine machine learning techniques with quantum circuits using Qiskit Machine Learning. Evaluate the performance of the quantum model against a classical model (comparative).
